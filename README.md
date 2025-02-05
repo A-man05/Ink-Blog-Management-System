@@ -26,22 +26,4 @@ Ink is a Node.js project that provides a platform for users to manage their blog
   
 <br>
 
-## Snapshots from the projects
 
-<img width="1680" alt="Screenshot 2024-04-28 at 7 59 06 AM" src="https://github.com/ud1-t/ink.-Blogs/assets/115363400/bc785731-2af4-43ae-b05e-a630c57ec18b">
-  
-<br>
-
-<img width="1680" alt="Screenshot 2024-04-28 at 7 59 31 AM" src="https://github.com/ud1-t/ink.-Blogs/assets/115363400/9586bf2a-087a-4374-8476-21cf0957b644">
-  
-<br>
-
-<img width="1680" alt="Screenshot 2024-04-28 at 8 00 05 AM" src="https://github.com/ud1-t/ink.-Blogs/assets/115363400/a58b36c5-1a18-4fdf-bf88-058111239c6f">
-  
-<br>
-
-<img width="1680" alt="Screenshot 2024-04-28 at 8 00 23 AM" src="https://github.com/ud1-t/ink.-Blogs/assets/115363400/9b9f9765-2305-4883-b6e4-2df4143629ad">
-  
-<br>
-
-<img width="1680" alt="Screenshot 2024-04-28 at 8 00 40 AM" src="https://github.com/ud1-t/ink.-Blogs/assets/115363400/81fdd1da-5fcd-43a9-8ec3-436e5c2ab331">
